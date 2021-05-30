@@ -1,0 +1,14 @@
+.sideBarView{
+    width: 100%;
+}
+#menueIcon{
+    position: absolute;
+    top: 100px;
+    left: 0;
+    top: 0;
+    color: gray    ;
+    z-index: 5555849849 !important;
+    cursor: pointer;
+    
+}
+

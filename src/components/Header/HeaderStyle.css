@@ -1,0 +1,21 @@
+.header{
+    background-color: white ;
+}
+.icons{
+    color: rgb(128, 120, 120);
+    margin-left: 20px;
+}
+.notificationRed::after{
+    content: "9+";
+    font-weight: bold;
+    color: white;
+    position: relative;
+    border-radius: 20%;
+    bottom: 5px;
+    right: 10px;
+    height: 10px;
+    width: 10px;
+    font-size: 10px;
+    background-color: red;
+    
+}

@@ -1,0 +1,8 @@
+.modal-header{
+    width: 100%;
+ background-color: rgb(5,14,45);
+ color: white; 
+ text-decoration: none;   
+ padding: 5px 5px;
+ border: none;   
+}

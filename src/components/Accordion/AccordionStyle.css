@@ -1,0 +1,25 @@
+.toggleItem{
+    background-color: transparent;
+    border:none;
+    color: gray;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: transparent;
+    font-size: 20px;
+    font-weight: bold;
+}
+.toggleContainer{
+    position: relative;
+}
+.collaps{
+    font-size: 18px;
+}
+.collaps ul{
+    margin-left: 5px;
+    list-style: none;
+}
+
+.active{
+    background-color: green;
+}

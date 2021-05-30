@@ -1,0 +1,46 @@
+.SideBar{
+    height: 100vh !important;
+    background-color: rgb(5,14,45);
+   
+}
+.SideBar h1{
+    font-weight: bolder;
+    font-size: 60;
+    color: white;
+    text-align: center;
+    padding-top: 20px;
+}
+.seachDiv{
+    position: relative;
+    width: 90%;
+    margin: auto
+}
+.inputSearch{
+    width: 100%;
+    height: 40px;
+    border-radius: 50px 50px;
+}
+.searchIcon{
+    position: absolute;
+    top: 2px;
+    right: 10px;
+    color: gray;
+    
+}
+.titleDashBoard{
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+    align-items: center;
+}
+.titleDashBoard h5{
+    color: gray;
+    padding-top: 5px;
+}
+.dashBoardIcon{
+    color: gray;
+}
+.sideBarContent{
+    color: gray;
+}
+
